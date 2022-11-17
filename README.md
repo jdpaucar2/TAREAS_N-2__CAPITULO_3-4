@@ -54,12 +54,12 @@
 
 1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente cuando
 
-A) El voltajae se triplica -------->La corriente se triplica
-B) El porcentaje se reduce em 75%--------->La corrriente  se reduce  al 75%
-c) La resisitencia se duplica ----------> La corriente se reduce a la mitad
-D) La resistencia  se reduce en 35%------>la corriente se incrementa en 54%
-E) El voltaje se duplica y la resistencia se reduce a la mitad-------->La corriente se cudruplica.
-F) El voltaje y la resistencia  se duplica ------->La corriente no cambia
+* A) El voltajae se triplica -------->La corriente se triplica
+* B) El porcentaje se reduce em 75%--------->La corrriente  se reduce  al 75%
+* c) La resisitencia se duplica ----------> La corriente se reduce a la mitad
+* D) La resistencia  se reduce en 35%------>la corriente se incrementa en 54%
+* E) El voltaje se duplica y la resistencia se reduce a la mitad-------->La corriente se cudruplica.
+* F) El voltaje y la resistencia  se duplica ------->La corriente no cambia
 
 
 3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.
@@ -117,7 +117,7 @@ E)
 
 ![image](https://user-images.githubusercontent.com/116772918/202341748-17fe15f3-8dcd-4c7a-b165-d667f2f70496.png)
 
-17. Se conecta un resistor de 10V ohm a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
+17. Se conecta un resistor de 10ohm a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
 
 ![image](https://user-images.githubusercontent.com/116772918/202341835-24ffe0dc-e034-46be-881e-dd0f0d79191c.png)
 
