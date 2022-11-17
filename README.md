@@ -47,12 +47,6 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. RESOLUCION DE LOS EJERCICIOS**
 
-* 3.1 CAPITULO 1
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 3.1 CAPITULO 3
@@ -107,9 +101,92 @@ A)
 
 ![image](https://user-images.githubusercontent.com/116772918/202341342-b96fc190-a0ad-4bc5-96ba-370625da3287.png)
 
+B)
 
+![image](https://user-images.githubusercontent.com/116772918/202341611-bb7acd77-f324-4eb2-b4e1-8ad9ebdb0bf2.png)
+
+C)
+
+![image](https://user-images.githubusercontent.com/116772918/202341650-f699812d-b5b2-45d4-ac5c-8543272d59fe.png)
+
+D)
+
+![image](https://user-images.githubusercontent.com/116772918/202341699-493c14c4-ed23-4d58-b2f7-d8246e432dae.png)
+
+E)
+
+![image](https://user-images.githubusercontent.com/116772918/202341748-17fe15f3-8dcd-4c7a-b165-d667f2f70496.png)
+
+17. Se conecta un resistor de 10V ohm a través de una batería de 12 V. ¿Cuál es la corriente a través del resistor?
+
+![image](https://user-images.githubusercontent.com/116772918/202341835-24ffe0dc-e034-46be-881e-dd0f0d79191c.png)
+
+19. Se conecta un resistor de cuatro bandas a través de las terminales de una fuente de 25 V. Determine la corriente del resistor si el código de colores es amarillo, violeta, naranja, plata
+
+![image](https://user-images.githubusercontent.com/116772918/202341990-a6fb7a71-9b79-4ba5-a141-bb875712b0a4.png)
+
+21. Si el voltaje del problema 20 se duplica, ¿se fundirá un fusible de 0.5 A? Explique su respuesta.
+
+![image](https://user-images.githubusercontent.com/116772918/202342070-244bc4e4-d28e-48f0-8a4b-0c9c8d9f2b9d.png)
+
+Si la corriente ahora es de 06 A lo cual excede la capacidad del fisible 
+
+23. Calcule el voltaje para cada valor de I y R:
+
+![image](https://user-images.githubusercontent.com/116772918/202342251-ac95c6ed-f604-4812-9b33-4acf0e5dc1ce.png)
+
+![image](https://user-images.githubusercontent.com/116772918/202342339-bc851fc0-7ee7-44f1-af3d-10154bf9eafd.png)
+
+25. Se leen tres amperes de corriente a través de un resistor de 27 conectado a una fuente de voltaje. ¿Cuánto voltaje produce la fuente?
+
+![image](https://user-images.githubusercontent.com/116772918/202342431-b6666080-e852-406f-af4f-7f47cf122495.png)
+
+27. Se conecta una fuente de 6 V a un resistor de 100 mediante dos tramos de alambre de cobre calibre 18 de 12 pies de largo. La resistencia total es la resistencia de los dos alambres sumada al resistor de 100 . Determine lo siguiente
+
+![image](https://user-images.githubusercontent.com/116772918/202342506-8d106494-9f34-4759-bb2b-ebf8e5257f76.png)
+
+![image](https://user-images.githubusercontent.com/116772918/202342541-77d72d7b-5e9c-408b-bdf5-e4a98b230ed1.png)
+
+![image](https://user-images.githubusercontent.com/116772918/202342574-754e648b-b177-4023-ac54-476eb85c5027.png)
+
+29. Calcule la resistencia de un reóstato para cada juego de valores de V e I:
+
+![image](https://user-images.githubusercontent.com/116772918/202342623-cd63f090-d662-4d47-a6df-8646b729e92d.png)
+
+![image](https://user-images.githubusercontent.com/116772918/202342644-5c244580-fa3d-4d02-b465-f5615bcb2f5f.png)
+
+![image](https://user-images.githubusercontent.com/116772918/202342669-a3cc0844-9886-43eb-8583-d612d65c25b3.png)
+
+![image](https://user-images.githubusercontent.com/116772918/202342706-6ce3b10a-2371-4fc3-a2d7-e1928949a212.png)
+
+![image](https://user-images.githubusercontent.com/116772918/202342737-07ce36b9-ae90-453d-a800-d14060729726.png)
+
+31. En el circuito de la figura 3-23(a), el filamento de una lámpara tiene cierta cantidad de resistencia, la cual está representada por una resistencia equivalente en la figura 3-23(b). Si la lámpara opera con 120 V y 0.8 A de corriente, ¿cuál es la resistencia de su filamento cuando está encendida?
+
+![image](https://user-images.githubusercontent.com/116772918/202342828-c6a2e5e8-32f9-402a-8241-f6186b458365.png)
+
+33.Al variar el reóstato (resistor variable) en el circuito de la figura 3-24, puede cambiar la cantidad de corriente. El ajuste del reóstato es tal que la corriente es de 750 mA. ¿Cuál es el valor de resistencia de este ajuste? Para ajustar la corriente a 1 A, ¿a qué valor de resistencia debe ajustar el reóstato? ¿Cuál es el problema con el circuito?
+
+![image](https://user-images.githubusercontent.com/116772918/202342888-1661300c-de08-44c7-82ef-e8a5e69656b7.png)
+
+35. Repita el problema 34 con un circuito de 110 V y un fusible de 1 A.
+
+![image](https://user-images.githubusercontent.com/116772918/202342936-322626d8-2ed4-4b21-ae26-9ea1554edcd1.png)
+
+37. Suponga que tiene una serie de 32 luces y uno de los focos se fundió. Con el método de división a la mitad, y comenzando por la mitad izquierda del circuito, ¿cuántas lecturas de resistencia tomará localizar el foco fundido si es el décimo séptimo de izquierda a derecha?
+
+
+* La división a la mitad identifica la falla aislando sucesivamente al mitad del circuito restante.
+
+  Lo que resulta en 16 lecturas de resistencia desde izquierda a derecha
+
+![image](https://user-images.githubusercontent.com/116772918/202343081-29752732-d8b5-4fb3-b37d-5ec76e018c19.png)
+
+
+* 3.2 CAPITULO 4
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **4. VIDEO **
