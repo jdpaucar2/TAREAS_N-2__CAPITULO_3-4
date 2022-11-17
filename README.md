@@ -55,7 +55,56 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* 3.1 CAPITULO 2
+* 3.1 CAPITULO 3
+
+
+1. En un circuito compuesto de una fuente de voltaje y un resistor, describa qué le sucede a la corriente cuando
+
+A) El voltajae se triplica -------->La corriente se triplica
+B) El porcentaje se reduce em 75%--------->La corrriente  se reduce  al 75%
+c) La resisitencia se duplica ----------> La corriente se reduce a la mitad
+D) La resistencia  se reduce en 35%------>la corriente se incrementa en 54%
+E) El voltaje se duplica y la resistencia se reduce a la mitad-------->La corriente se cudruplica.
+F) El voltaje y la resistencia  se duplica ------->La corriente no cambia
+
+
+3. Enuncie la fórmula utilizada para encontrar V cuando los valores de I y R son conocidos.
+
+* V = I x R *
+
+5. Se conecta una fuente de voltaje variable al circuito de la figura 3-18. Comience con 0 V e incremente el voltaje, en pasos de 10 V, hasta 100 V. Determine la corriente en cada voltaje y trace una gráfica de V contra I. ¿Es la gráfica una línea recta? ¿Qué indica la gráfica?
+
+![image](https://user-images.githubusercontent.com/116772918/202340148-bbb78177-7b63-40d4-86e1-05e8f33133c4.png)
+
+la grafica es una linea recta , lo que indica una relacion lineal entre V e I
+
+7. La figura 3-19 es una gráfica de corriente contra voltaje para tres valores de resistencia. Determine R1, R2 y R3
+
+![image](https://user-images.githubusercontent.com/116772918/202340435-78aa688b-6b1d-40e0-8f65-d8905dbd9a59.png)
+
+![image](https://user-images.githubusercontent.com/116772918/202340459-68de62d7-bacd-4859-850e-2b130a8a6fc1.png)
+
+![image](https://user-images.githubusercontent.com/116772918/202340493-f8016226-1b1a-4638-bbd0-49232876bab7.png)
+
+![image](https://user-images.githubusercontent.com/116772918/202340522-2ec15aa6-3638-473b-a6e5-b0ab757b976c.png)
+
+
+9. Trace la relación corriente-voltaje para un resistor de cinco bandas con código de colores café, verde, gris, café, rojo
+
+![image](https://user-images.githubusercontent.com/116772918/202340726-26250979-1104-496f-8d41-d5d60fd228dd.png)
+
+11. Se mide la corriente en un circuito que opera con una batería de 10 V. El amperímetro lee 50 mA. Más tarde, se observa que la corriente cae a 30 mA. Eliminando la posibilidad de un cambio de resistencia, debe concluirse que el voltaje ha cambiado. ¿Cuánto ha cambiado el voltaje de la batería y cuál es su nuevo valor?
+
+![image](https://user-images.githubusercontent.com/116772918/202341052-2e32fc16-c25d-446a-af40-5a487156e7b3.png)
+
+13. Trace una gráfica de corriente contra voltaje con valores de voltaje que vayan de 10 a 100 V, en incrementos de 10 V, para cada uno de los siguientes valores de resistencia
+
+![image](https://user-images.githubusercontent.com/116772918/202341220-0840ec5d-f912-409e-950f-6d176ee8d98f.png)
+
+15. Determine la corriente en cada caso
+
+A) ![image](https://user-images.githubusercontent.com/116772918/202341342-b96fc190-a0ad-4bc5-96ba-370625da3287.png)
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
