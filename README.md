@@ -36,10 +36,13 @@
 
 
 
+![image](https://user-images.githubusercontent.com/93835587/141924958-389a77ec-cfe9-473b-916c-10f5ed2ee76a.jpeg)
 
+![image](https://user-images.githubusercontent.com/93835587/141924958-389a77ec-cfe9-473b-916c-10f5ed2ee76a.jpeg)
 
 ![image](https://user-images.githubusercontent.com/116772918/202334636-f3f56294-f81e-4545-abb0-99a5f31c6ddf.png)
 
+![image](https://user-images.githubusercontent.com/116772918/202336956-d7949441-a490-48d1-b47b-ae0311923824.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **3. RESOLUCION DE LOS EJERCICIOS**
