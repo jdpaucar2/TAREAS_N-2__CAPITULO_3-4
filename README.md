@@ -104,6 +104,7 @@ la grafica es una linea recta , lo que indica una relacion lineal entre V e I
 15. Determine la corriente en cada caso
 
 A)
+
 ![image](https://user-images.githubusercontent.com/116772918/202341342-b96fc190-a0ad-4bc5-96ba-370625da3287.png)
 
 
